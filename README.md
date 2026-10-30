@@ -73,19 +73,19 @@ The high R² value indicates that the logarithmically transformed data closely f
 
 Comparison of simulated concentration data with predicted concentrations.
 
-[View Concentration Graph](Concentration%20%28mol_L%29%20vs.%20Time%20%28min%29.pdf)
+[View Concentration Graph](graphs/Concentration%20%28mol_L%29%20vs.%20Time%20%28min%29.pdf)
 
 ### Linearized First-Order Kinetics
 
 Logarithmic transformation of concentration data with a fitted linear regression model.
 
-[View Linear Regression Graph](ln%28Concentration%29%20vs.%20Time.pdf)
+[View Linear Regression Graph](graphs/ln%28Concentration%29%20vs.%20Time.pdf)
 
 ## Project Files
 
-- [Technical Report](First_Order_Reaction_Kinetics_Engineering_Report%20.pdf) — Complete methodology, results, discussion, and conclusions.
-- [Excel Spreadsheet](Chemical%20Engineering%20Project.xlsx) — Concentration data, regression analysis, and calculations.
-- [Graphs PDF](Chemical%20Engineering%20Project%20-%20Graphs.pdf) — Project visualizations.
+- [Technical Report](report/First_Order_Reaction_Kinetics_Engineering_Report%20.pdf) — Complete methodology, results, discussion, and conclusions.
+- [Excel Spreadsheet](data/Chemical%20Engineering%20Project.xlsx) — Concentration data, regression analysis, and calculations.
+- [Graphs PDF](graphs/Chemical%20Engineering%20Project%20-%20Graphs.pdf) — Project visualizations.
 
 ## Skills Demonstrated
 
