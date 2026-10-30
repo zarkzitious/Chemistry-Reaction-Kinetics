@@ -83,7 +83,7 @@ Logarithmic transformation of concentration data with a fitted linear regression
 
 ## Project Files
 
-- [Technical Report](First_Order_Reaction_Kinetics_Engineering_Report.pdf) — Complete methodology, results, discussion, and conclusions.
+- [Technical Report](First_Order_Reaction_Kinetics_Engineering_Report%20.pdf) — Complete methodology, results, discussion, and conclusions.
 - [Excel Spreadsheet](Chemical%20Engineering%20Project.xlsx) — Concentration data, regression analysis, and calculations.
 - [Graphs PDF](Chemical%20Engineering%20Project%20-%20Graphs.pdf) — Project visualizations.
 
